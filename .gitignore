@@ -15,3 +15,7 @@ venv/
 # OS-specific (Windows)
 Thumbs.db
 desktop.ini
+
+# other
+todo
+test.py
