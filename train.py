@@ -5,7 +5,6 @@ from loops import training_loop
 
 import torch
 import torchvision
-import torch.nn as nn
 from pathlib import Path
 
 train_loader = get_emnist_dataloader()
